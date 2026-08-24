@@ -175,6 +175,11 @@
     color: $color-text;
     text-decoration: none;
     font-style: normal;
+
+    &-link {
+      text-decoration: none;
+      color: $color-text;
+    }
   }
 
   &__value {
